@@ -17,4 +17,7 @@ Designed And Developed By
 ----
 Raushan Jha
 
-![image] (https://cloud.githubusercontent.com/assets/9053854/24495974/fbf2e0cc-1547-11e7-846c-25b5fac7f6b1.png)
+# ScreenShots
+ <img src="/screenshot/1.jpeg" width="400px"/>
+ <img src="/screenshot/2.jpeg" width="400px"/>
+ <img src="/screenshot/3.jpeg" width="400px"/>
